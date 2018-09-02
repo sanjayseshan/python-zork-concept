@@ -7,3 +7,6 @@ To play:
 1) Run "python game.py"
 2) Type in a command in "quotes", such as "forward"
 3) Have fun and don't die!
+
+
+Written by Sanjay Seshan (2013)
