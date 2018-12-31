@@ -2,6 +2,7 @@
 
 print("Welcome to Zork Concept Plus!")
 print("By Sanjay Seshan")
+print("Copyright (c) Sanjay Seshan 2013")
 print("Loading...")
 
 while exit != "3" :
