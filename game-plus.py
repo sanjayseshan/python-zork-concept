@@ -1,4 +1,9 @@
 #!/usr/bin/python
+
+print("Welcome to Zork Concept Plus!")
+print("By Sanjay Seshan")
+print("Loading...")
+
 while exit != "3" :
 	invent = "match"
 	main = "Which direction would you like to go?"
